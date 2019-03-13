@@ -380,117 +380,117 @@
     <message>
         <location filename="../core/translator.cpp" line="108"/>
         <source>Error while loading map file &apos;%1&apos;. Make sure that the map format is supported, that the file is not corrupt, and that there is sufficient free space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка в процессе загрузки файла &apos;%1&apos;. Убедитесь что формат карты поддерживается, что файл не повреждёт и что хватает свободного места.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="109"/>
         <source>Extracting and importing map file. Depending on the map size this can take some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Распаковка и импортирование файла карты. Это может занять некоторое время в зависимости от размера карты.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="110"/>
         <source>Do you really want to delete the map? This cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы точно хотите удалить эту карту? Это невозможно будет отменить.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="112"/>
         <source>Load as overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить как наложение</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="113"/>
         <source>Load current position</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить текущую позицию</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="114"/>
         <source>Load default position</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить позицию по умолчанию</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="115"/>
         <source>Load last position</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить последнюю позицию</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="116"/>
         <source>Clear cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить кэш</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="118"/>
         <source>Attribution</source>
-        <translation type="unfinished"></translation>
+        <translation>Атрибуция</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="119"/>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличение</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="120"/>
         <source>Min. zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Мин. увеличение</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="121"/>
         <source>Max. zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Макс. увеличение</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="122"/>
         <source>Cache size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер кэша</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="123"/>
         <source>Cache file</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл кэша</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="124"/>
         <source>Bounding box</source>
-        <translation type="unfinished"></translation>
+        <translation>Границы</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="125"/>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Модифицировано</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="126"/>
         <source>Map file size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер файла карты</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="127"/>
         <source>Map file name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя файла карты</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="128"/>
         <source>Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Проекция</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="129"/>
         <source>Server url</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрес сервера</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="130"/>
         <source>Server headers</source>
-        <translation type="unfinished"></translation>
+        <translation>Заголовок сервера</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="131"/>
         <source>Select maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать карты</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="132"/>
         <source>Tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Плитка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="134"/>
@@ -500,543 +500,549 @@ Online maps:
 WMS maps:
 {minlon}/{maxlat}/{maxlon}/{minlat} hold the top-left and bottom-right coordinates of the requested bounding box.
 {ts} holds the requested tile size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Типы тегов зависят от конкретной карты из сети
+Карты из сети:
+{x}/{y}/{z} соответствуют координатам
+{minlon}/{maxlat}/{maxlon}/{minlat} соответствуют верхнему левому углу,нижнему правому углу границ
+{ts} размер плитки.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="135"/>
         <source>Each line specifies a header. The header key and value are separated by a &apos;:&apos;. Example:
 User-Agent:Cartograph Maps
 Referer:www.mysite</source>
-        <translation type="unfinished"></translation>
+        <translation>По одному заголовку на каждую строку. Ключ и значение разделяются знаком &quot;:&quot;. Например:
+User-Agent:Cartograph Maps
+Referer:www.mysite</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="137"/>
         <source>Online map type</source>
-        <translation type="unfinished"></translation>
+        <translation>Типа карты из сети</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="138"/>
         <source>Online map</source>
-        <translation type="unfinished"></translation>
+        <translation>Карта из сети</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="139"/>
         <source>WMS online map</source>
-        <translation type="unfinished"></translation>
+        <translation>WMS карта</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="140"/>
         <source>Add map</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить карту</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="141"/>
         <source>Edit map</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать карту</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="143"/>
         <source>Set as map style</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить как стиль карты</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="144"/>
         <source>Set as overlay style</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить как стиль наложения</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="146"/>
         <source>Error while loading style(s) from file &apos;%1&apos;. Make sure that the style format is supported, that the file is not corrupt, and that there is sufficient free space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка в процесе загрузки стиля из файла &quot;%1&quot;. Убедитеесь что стиль поддерживается, что файл не повреждён, что есть свободно место.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="147"/>
         <source>Extracting and importing style file. Depending on the style size this can take some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Распаковка и импортирование стиля файла. Это может занять некоторое время в зависимости от размера.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="148"/>
         <source>Do you really want to delete the style? This cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы точно хотите удалить файла стиля? Нельзя будет отменить.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="150"/>
         <source>Edit style</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать стиль</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="151"/>
         <source>Layers</source>
-        <translation type="unfinished"></translation>
+        <translation>Слои</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="152"/>
         <source>Hillshading support</source>
-        <translation type="unfinished"></translation>
+        <translation>Поддержка теней холмов</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="154"/>
         <source>Manage tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление дорожками</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="155"/>
         <source>Draw track</source>
-        <translation type="unfinished"></translation>
+        <translation>Нарисовать дорожку</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="156"/>
         <source>Clear all tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить все дорожки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="158"/>
         <source>Manage track categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление категориями дорожек</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="159"/>
         <source>Manage waypoint categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление категориями маршрутной точки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="160"/>
         <source>Set as default</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить по умолчанию</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="161"/>
         <source>Do you really want to delete the category? This cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите удалить категорию? Нельзя будет отменить.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="162"/>
         <source>Edit category</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать категорию</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="163"/>
         <source>Add category</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить категорию</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="164"/>
         <source>Select image</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать изображение</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="165"/>
         <source>Do you really want to delete the icon? This cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите удалить эту иконку? Нельзя будет отменить.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="166"/>
         <source>Import images</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортировать изображения</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="168"/>
         <source>Importing image(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортирование изображений.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="169"/>
         <source>Error while loading one or more icons.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка в процессе загрузки иконки.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="171"/>
         <source>Import tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортировать дорожки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="172"/>
         <source>Importing track(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортирование дорожек.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="173"/>
         <source>Error while loading one or more tracks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка в процессе загрузки дорожки.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="174"/>
         <source>Do you really want to delete the track? This cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите удалить дорожку? Нельзя будет отменить.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="175"/>
         <source>Edit properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать настройки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="176"/>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Статистика</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="177"/>
         <location filename="../core/translator.cpp" line="283"/>
         <source>Waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Точки маршрута</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="178"/>
         <source>Graph</source>
-        <translation type="unfinished"></translation>
+        <translation>Граф</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="179"/>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Категория</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="180"/>
         <source>Custom styling</source>
-        <translation type="unfinished"></translation>
+        <translation>Свой стиль</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="181"/>
         <source>Line color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет линии</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="182"/>
         <source>Line width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина линии</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="183"/>
         <source>Fix height</source>
-        <translation type="unfinished"></translation>
+        <translation>Фиксированая высота</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="184"/>
         <source>Load as track</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить как дорожку</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="185"/>
         <source>Load as route</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить как путь</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="186"/>
         <source>Edit track</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать дорожку</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="188"/>
         <source>Add point</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить точку</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="189"/>
         <source>Remove point</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить точку</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="190"/>
         <source>Previous point</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущая точка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="191"/>
         <source>Next point</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующая почта</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="192"/>
         <source>List of points</source>
-        <translation type="unfinished"></translation>
+        <translation>Список точек</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="193"/>
         <source>Goto start</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти к началу</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="194"/>
         <source>Track name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя дорожки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="195"/>
         <source>Finish drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Закончить отрисовку</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="197"/>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="198"/>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="199"/>
         <source>Add waypoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить точку маршрута</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="200"/>
         <source>Start recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать запись</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="201"/>
         <source>Stop recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить запись</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="202"/>
         <source>Track position</source>
-        <translation type="unfinished"></translation>
+        <translation>Позиция дорожки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="204"/>
         <source>New track</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая дорожка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="205"/>
         <source>Continue track</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжить дорожку</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="206"/>
         <source>New segment</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый сегмент</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="208"/>
         <source>Route waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь через маршрутные точки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="209"/>
         <source>Goto route start</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти к началу пути</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="211"/>
         <source>Measure</source>
-        <translation type="unfinished"></translation>
+        <translation>Измерение</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="212"/>
         <source>Measure distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Измерить расстояние</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="213"/>
         <source>Measure area</source>
-        <translation type="unfinished"></translation>
+        <translation>Измерить площадь</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="215"/>
         <source>meters</source>
-        <translation type="unfinished"></translation>
+        <translation>метры</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="216"/>
         <source>kilometers</source>
-        <translation type="unfinished"></translation>
+        <translation>километры</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="217"/>
         <source>feet</source>
-        <translation type="unfinished"></translation>
+        <translation>футы</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="218"/>
         <source>miles</source>
-        <translation type="unfinished"></translation>
+        <translation>мили</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="219"/>
         <source>nautic miles</source>
-        <translation type="unfinished"></translation>
+        <translation>морские мили</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="221"/>
         <location filename="../core/translator.cpp" line="473"/>
         <source>Compass</source>
-        <translation type="unfinished"></translation>
+        <translation>Компас</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="222"/>
         <source>GPS</source>
-        <translation type="unfinished"></translation>
+        <translation>ГЛОНАСС</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="223"/>
         <source>Manual mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручной режим</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="224"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Выключить</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="226"/>
         <location filename="../core/translator.cpp" line="326"/>
         <source>Track points</source>
-        <translation type="unfinished"></translation>
+        <translation>Точки дорожки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="228"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Время</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="229"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="230"/>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="231"/>
         <source>Course</source>
-        <translation type="unfinished"></translation>
+        <translation>Курс</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="232"/>
         <source>Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Расстояние</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="233"/>
         <source>Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Энергия</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="234"/>
         <source>Watt</source>
-        <translation type="unfinished"></translation>
+        <translation>Ватт</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="235"/>
         <source>Beats per minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Ударов в минуту</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="236"/>
         <source>Cadence</source>
-        <translation type="unfinished"></translation>
+        <translation>Ритм</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="237"/>
         <source>Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>Тем</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="238"/>
         <source>Light intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>Интенсивность света</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="239"/>
         <source>Lux</source>
-        <translation type="unfinished"></translation>
+        <translation>Люкс</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="240"/>
         <source>Heart beats</source>
-        <translation type="unfinished"></translation>
+        <translation>Ударов сердца</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="241"/>
         <source>Calories</source>
-        <translation type="unfinished"></translation>
+        <translation>Калории</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="242"/>
         <source>KCal</source>
         <comment>short form of kilocalories</comment>
-        <translation type="unfinished"></translation>
+        <translation>ККал</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="243"/>
         <source>Air pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Давление воздуха</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="244"/>
         <source>mBar</source>
         <comment>short form of millibar</comment>
-        <translation type="unfinished"></translation>
+        <translation>мБар</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="245"/>
         <source>Steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Шагов</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="246"/>
         <source>Humidity</source>
-        <translation type="unfinished"></translation>
+        <translation>Влажность</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="248"/>
         <source>Hour</source>
         <comment>short form</comment>
-        <translation type="unfinished"></translation>
+        <translation>Час</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="249"/>
         <source>Min.</source>
         <comment>short form</comment>
-        <translation type="unfinished"></translation>
+        <translation>Мин.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="250"/>
         <source>Sec.</source>
         <comment>short form</comment>
-        <translation type="unfinished"></translation>
+        <translation>Сек.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="251"/>
         <source>Ms.</source>
         <comment>short form</comment>
-        <translation type="unfinished"></translation>
+        <translation>Мс.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="253"/>
         <source>Default source</source>
-        <translation type="unfinished"></translation>
+        <translation>Источник по умолчанию</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="254"/>
         <source>Webserver source</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрес сервера</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="256"/>
         <source>Error while getting location information. Make sure that the GPS device is correctly setup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка в процессе получения информации о местоположении. Убедитесь что устройство ГЛОНАСС установленно корректно.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="257"/>
         <source>Error while starting the compass. Make sure that the compass correctly setup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка в процессе запуска компаса. Убедитесь что компас установлен корректно.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="259"/>
         <source>File manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Файловый менеджер</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="260"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="261"/>
