@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru_RU">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>Translator</name>
     <message>
@@ -1465,152 +1465,152 @@ Referer:www.mysite</translation>
     <message>
         <location filename="../core/translator.cpp" line="360"/>
         <source>Avg. humidity</source>
-        <translation type="unfinished"></translation>
+        <translation>Средняя влажность</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="361"/>
         <source>Max. humidity</source>
-        <translation type="unfinished"></translation>
+        <translation>Макс. влажность</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="362"/>
         <source>Min. humidity</source>
-        <translation type="unfinished"></translation>
+        <translation>Мин. влажность</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="364"/>
         <source>Avg. air pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Среднее давление воздуха</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="365"/>
         <source>Min. air pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Мин. среднее давление воздуха</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="366"/>
         <source>Max. air pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Макс. давление воздуха</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="368"/>
         <source>Avg. slope up</source>
-        <translation type="unfinished"></translation>
+        <translation>Средний наклон вверх</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="369"/>
         <source>Avg. slope down</source>
-        <translation type="unfinished"></translation>
+        <translation>Средний наклон вниз</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="370"/>
         <source>Min. slope</source>
-        <translation type="unfinished"></translation>
+        <translation>Мин. наклон</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="371"/>
         <source>Max. slope</source>
-        <translation type="unfinished"></translation>
+        <translation>Макс. наклон</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="373"/>
         <source>Elevation data</source>
-        <translation type="unfinished"></translation>
+        <translation>Данные подъёма</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="374"/>
         <source>Missing elevation files</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы подъёма не найдены</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="375"/>
         <source>Download files</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать файлы</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="376"/>
         <source>Ignore and continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Пофиг, дальше</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="377"/>
         <source>Processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Обработка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="378"/>
         <source>Fixing height data...</source>
-        <translation type="unfinished"></translation>
+        <translation>Фиксирование данных высоты...</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="380"/>
         <source>Error while downloading file &apos;%1&apos;. Make sure that there is sufficient free space available and that you are connected to the internet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка в процессе скачивания файла &quot;%1&quot;. Убедитесь что есть достаточно места на диске и есть подключение к интернету.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="381"/>
         <source>Error while creating file &apos;%1&apos;. Make sure that there is sufficient free space available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка в процессе создания файла &quot;%1&quot;. Убедитесь что есть место на диске.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="382"/>
         <source>Error while extracting file &apos;%1&apos;. Make sure that there is sufficient free space available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка в процессе распаковки файла &quot;%1&quot;. Убедитесь что достаточно места на диске.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="384"/>
         <source>Downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачивание</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="385"/>
         <source>Downloading file (%1)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачивание файла (%1)...</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="387"/>
         <source>Extracting</source>
-        <translation type="unfinished"></translation>
+        <translation>Распаковка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="388"/>
         <source>Extracting file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Распаковка файла &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="390"/>
         <source>Internal maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Внутреннии карты</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="391"/>
         <source>The internal maps are basic maps without elevation data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Внутреннии карты - это карты без данных по высоте.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="392"/>
         <source>OpenAndroMaps.org</source>
-        <translation type="unfinished"></translation>
+        <translation>Внутреннии карты</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="393"/>
         <source>OpenAndroMaps offers free great offline mapsforge maps especially suited for outdoor activities. The maps contain elevation data and should be displayed with the OpenAndroMaps Elevate or Elements styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenAndroMaps предлагает бесплатные карты mapsforge предназначенные для активности на улице. Карты содержат данные по высоте и должны отображаться со стилями OpenAndroMaps Высота или Элементы.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="394"/>
         <source>Manual download</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручное скачивание</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="395"/>
         <source>Insert the url to a file for manual download (e.g. &apos;http://www.cartograph.eu/mycountry.map&apos;).</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставьте адрес к файлу для ручного скачивания (например &quot;http://www.cartograph.eu/mycountry.map&quot;).</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="396"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="398"/>
@@ -1810,52 +1810,52 @@ Referer:www.mysite</translation>
     <message>
         <location filename="../core/translator.cpp" line="446"/>
         <source>API key</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ API</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="447"/>
         <source>Get API key</source>
-        <translation type="unfinished"></translation>
+        <translation>Получить ключ API</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="448"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Помощь</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="449"/>
         <source>Avoid</source>
-        <translation type="unfinished"></translation>
+        <translation>Избегать</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="450"/>
         <source>Disallow</source>
-        <translation type="unfinished"></translation>
+        <translation>Не согласен</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="451"/>
         <source>Prefer</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпочитать</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="452"/>
         <source>Road grade strategy</source>
-        <translation type="unfinished"></translation>
+        <translation>Стратегия градации дорог</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="453"/>
         <source>Cycling road factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Фактор велосипедных дорог</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="454"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="455"/>
         <source>Optimized</source>
-        <translation type="unfinished"></translation>
+        <translation>Оптимизировано</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="456"/>
@@ -2420,157 +2420,157 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="583"/>
         <source>Simple</source>
-        <translation type="unfinished"></translation>
+        <translation>Простой</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="584"/>
         <source>Diffuse (slower)</source>
-        <translation type="unfinished"></translation>
+        <translation>Распространять (медленно)</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="585"/>
         <source>Hillshading</source>
-        <translation type="unfinished"></translation>
+        <translation>Тени холмов</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="587"/>
         <source>Skiing</source>
-        <translation type="unfinished"></translation>
+        <translation>Лыжи</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="588"/>
         <source>Backpacking</source>
-        <translation type="unfinished"></translation>
+        <translation>Переноска грузов</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="589"/>
         <source>Boating</source>
-        <translation type="unfinished"></translation>
+        <translation>Лодки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="590"/>
         <source>Canyoning</source>
-        <translation type="unfinished"></translation>
+        <translation>Канои</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="591"/>
         <source>Driving</source>
-        <translation type="unfinished"></translation>
+        <translation>Езда</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="592"/>
         <source>Fishing</source>
-        <translation type="unfinished"></translation>
+        <translation>Рыбалка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="593"/>
         <source>Geocaching</source>
-        <translation type="unfinished"></translation>
+        <translation>Навигация</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="594"/>
         <source>Paragliding</source>
-        <translation type="unfinished"></translation>
+        <translation>Летание на параглайде</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="595"/>
         <source>Hiking</source>
-        <translation type="unfinished"></translation>
+        <translation>Пеший туризм</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="596"/>
         <source>Ice skating</source>
-        <translation type="unfinished"></translation>
+        <translation>Катание на льду</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="597"/>
         <source>Kayaking/Canoeing</source>
-        <translation type="unfinished"></translation>
+        <translation>Каяке/Каное</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="598"/>
         <source>Motorcycling</source>
-        <translation type="unfinished"></translation>
+        <translation>Мотоциклы</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="599"/>
         <source>Mountainbiking</source>
-        <translation type="unfinished"></translation>
+        <translation>Горный велосипед</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="600"/>
         <source>Offroading</source>
-        <translation type="unfinished"></translation>
+        <translation>Езда по бездорожью</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="601"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Другое</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="602"/>
         <source>Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>Фотография</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="603"/>
         <source>Relaxation</source>
-        <translation type="unfinished"></translation>
+        <translation>Отдых</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="604"/>
         <source>Road biking</source>
-        <translation type="unfinished"></translation>
+        <translation>Езда на мотоцикле</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="605"/>
         <source>Climbing</source>
-        <translation type="unfinished"></translation>
+        <translation>Карабканье по горам</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="606"/>
         <source>Roller skating</source>
-        <translation type="unfinished"></translation>
+        <translation>Катание на роликах</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="607"/>
         <source>Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Бег</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="608"/>
         <source>Sailing</source>
-        <translation type="unfinished"></translation>
+        <translation>Мореходство</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="609"/>
         <source>Sightseeing</source>
-        <translation type="unfinished"></translation>
+        <translation>Обзор достопримечательностей</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="610"/>
         <source>Skateboarding</source>
-        <translation type="unfinished"></translation>
+        <translation>Скейтборд</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="611"/>
         <source>Snowboarding</source>
-        <translation type="unfinished"></translation>
+        <translation>Сноуборд</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="612"/>
         <source>Snowmobiling</source>
-        <translation type="unfinished"></translation>
+        <translation>Снегоходы</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="613"/>
         <source>Snowshoeing</source>
-        <translation type="unfinished"></translation>
+        <translation>Снегоступы</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="614"/>
         <source>Trail running</source>
-        <translation type="unfinished"></translation>
+        <translation>Бег по следу</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="615"/>
