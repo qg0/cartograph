@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru_RU">
+<TS version="2.1" language="ru_RU">
 <context>
     <name>Translator</name>
     <message>
@@ -2426,17 +2426,17 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="579"/>
         <source>If checked then the following option always copies maps, overlays, etc. into the local app storage during import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если выбранно, то следующая опция всегда копирует карты, наложение, и т.п. в локальное хранилище в процессе импортирования.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="581"/>
         <source>Interpolation overlap</source>
-        <translation type="unfinished"></translation>
+        <translation>Перекрытие интерполяции</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="582"/>
         <source>Shading algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Алгоритм затемнения</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="583"/>
@@ -2596,132 +2596,132 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="615"/>
         <source>Train</source>
-        <translation type="unfinished">Поезд</translation>
+        <translation>Поезд</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="616"/>
         <source>Trekking</source>
-        <translation type="unfinished">Катание по треку</translation>
+        <translation>Катание по треку</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="617"/>
         <source>Walking</source>
-        <translation type="unfinished">Прогулка</translation>
+        <translation>Прогулка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="619"/>
         <source>Drinking water</source>
-        <translation type="unfinished">Выпить воды</translation>
+        <translation>Выпить воды</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="620"/>
         <source>Camp ground</source>
-        <translation type="unfinished">Лагерь</translation>
+        <translation>Лагерь</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="621"/>
         <source>Supermarket</source>
-        <translation type="unfinished">Супермаркет</translation>
+        <translation>Супермаркет</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="622"/>
         <source>Hotel</source>
-        <translation type="unfinished">Гостиница</translation>
+        <translation>Гостиница</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="623"/>
         <source>Restaurant</source>
-        <translation type="unfinished">Рестаран</translation>
+        <translation>Рестаран</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="624"/>
         <source>Information</source>
-        <translation type="unfinished">Информация</translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="625"/>
         <source>Parking area</source>
-        <translation type="unfinished">Парковка</translation>
+        <translation>Парковка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="626"/>
         <source>Scenic area</source>
-        <translation type="unfinished">Сцена</translation>
+        <translation>Сцена</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="627"/>
         <source>Summit</source>
-        <translation type="unfinished">Встреча на высшем уровне</translation>
+        <translation>Встреча на высшем уровне</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="628"/>
         <source>Swimming</source>
-        <translation type="unfinished">Плавание</translation>
+        <translation>Плавание</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="629"/>
         <source>Tunnel</source>
-        <translation type="unfinished">Тунель</translation>
+        <translation>Тунель</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="631"/>
         <source>Error while creating local file. Make sure that there is sufficient free space on the target device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка в процессе создания файла. Убедитесь что есть достаточно места на устройстве.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="632"/>
         <source>Default Mapsforge style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль Mapsforge по умолчанию</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="633"/>
         <source>Experimental</source>
-        <translation type="unfinished"></translation>
+        <translation>Эксперементальная</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="635"/>
         <source>MBTiles map</source>
-        <translation type="unfinished"></translation>
+        <translation>Карты MBTiles</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="636"/>
         <source>Mapsforge multi-map</source>
-        <translation type="unfinished"></translation>
+        <translation>Мультикарта Mapsforge</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="637"/>
         <source>Online overlay map</source>
-        <translation type="unfinished"></translation>
+        <translation>Карта наложения в сети</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="638"/>
         <source>Locus SQLite map</source>
-        <translation type="unfinished"></translation>
+        <translation>Карта Locus SQLite</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="640"/>
         <source>Screen scaling factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Множитель масштаба экрана</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="641"/>
         <source>The screen scaling factor scales all controls. This is useful for instance if you need bigger buttons. A good scaling factor for getting bigger controls is &apos;1.5&apos;. NOTE: the application has to be restarted after changing this setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Множитель масштаба экрана масштабирует всё управление. Это удобно если вам нужны большие кнопки. Хороший множитель масштаба - это &quot;1.5&quot;. Замечание: нужно перезагрузить приложение после изменения настроек.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="643"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Директория</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="644"/>
         <source>Add folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить директорию</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="645"/>
         <source>Do you really want to delete the folder? All elements in the folder will be moved to the root folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите удалить директорию? Все элементы в директории будут меремещены в корневую директорию.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="646"/>
@@ -3351,12 +3351,12 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="792"/>
         <source>Design</source>
-        <translation type="unfinished">Дизайн</translation>
+        <translation>Дизайн</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="793"/>
         <source>Alternative map mouse mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Альтернативный режим мышки карты</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="795"/>
@@ -3451,32 +3451,32 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="817"/>
         <source>Map only</source>
-        <translation type="unfinished"></translation>
+        <translation>Только карта</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="818"/>
         <source>Provider only</source>
-        <translation type="unfinished"></translation>
+        <translation>Только Поставщик</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="819"/>
         <source>Reverse geo-code provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Обратить поставщика геокода</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="820"/>
         <source>Reverse geo-code ways</source>
-        <translation type="unfinished"></translation>
+        <translation>Обратить пути геокода</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="821"/>
         <source>Reverse geo-code POIs</source>
-        <translation type="unfinished"></translation>
+        <translation>Обратить точки интереса геокода</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="822"/>
         <source>Show altitude data on map</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать данные высоты на карте</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="824"/>
