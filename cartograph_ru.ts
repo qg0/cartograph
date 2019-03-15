@@ -2050,82 +2050,82 @@ Referer:www.mysite</translation>
     <message>
         <location filename="../core/translator.cpp" line="504"/>
         <source>Mapsforge tile size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер плитки Mapsforge</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="505"/>
         <source>Mapsforge text scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштаб текста Mapsforge</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="506"/>
         <source>Mapsforge user scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользовательский масштаб Mapsforge</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="508"/>
         <source>Heart rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Сердечный ритм</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="509"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="510"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Позиция</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="511"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Верх</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="512"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Центр</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="513"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Низ</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="515"/>
         <source>Poll other devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Опросить другие устройства</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="516"/>
         <source>Send own position</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить свою позицию</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="517"/>
         <source>Polling interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Интервал опроса</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="518"/>
         <source>Sending interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Интервал отправки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="519"/>
         <source>Visualize users&apos; paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Визуализировать пользовательские пути</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="520"/>
         <source>Live tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Отслиживание в живую</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="521"/>
         <source>Custom service</source>
-        <translation type="unfinished"></translation>
+        <translation>Произвольный сервис</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="522"/>
@@ -2150,87 +2150,108 @@ Sending variables:
 -&apos;{hum}&apos;: humidtiy(%).
 -&apos;{ap}&apos;: air pressure (mBar).
 -&apos;{steps}&apos;: steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Переменные опроса:
+-&quot;{tf}&quot;: последний запрос временной метки по Гринвичу в секундах.
+
+Отправляемые переменные:
+-&quot;{lat}&quot;: широта.
+-&quot;{lon}&quot;: долгота.
+-&quot;{alt}&quot;: высота
+-&quot;{cad}&quot;: каденция
+-&quot;{hf}&quot;: частота сердца
+-&quot;{pt}&quot;: указание временной метки по Гринвичу в секундах.
+-&quot;{st}&quot;: запрос временной метки по Гринвичу в секундах.
+-&quot;{cal}&quot;: калории (кКалл).
+-&quot;{course}&quot;: курс.
+-&quot;{dst}&quot;: дистанция (метры).
+-&quot;{speed}&quot;: скорость (км/ч).
+-&quot;{power}&quot;: энергия (Вт).
+-&quot;{temp}&quot;: температура (°C).
+-&quot;{lightint}&quot;: Интенсивность света (люкс).
+-&quot;{hum}&quot;: влажность (%).
+-&quot;{ap}&quot;: давление воздуха (мБар).
+-&quot;{steps}&quot;: шагов
+</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="523"/>
         <source>Polling url</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрес опроса</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="524"/>
         <source>Sending url</source>
-        <translation type="unfinished"></translation>
+        <translation>Посылаемый адрес</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="525"/>
         <source>Start polling</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать опрос</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="526"/>
         <source>Stop polling</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить опрос</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="527"/>
         <source>Start tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать отслеживание</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="528"/>
         <source>Stop tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить отслеживание</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="529"/>
         <source>Live tracking sending interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Интервал посылания отслеживания в живую</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="530"/>
         <source>Live tracking sending queue size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер очереди посылания отслеживания в живую</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="532"/>
         <source>Units</source>
-        <translation type="unfinished"></translation>
+        <translation>Еденицы</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="533"/>
         <source>Deselect all</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить выделение</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="534"/>
         <source>Delete selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранное</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="535"/>
         <source>Do you really want to delete the selected tracks? This cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите удалить выбранные дорожки? Нельзя отменить.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="537"/>
         <source>Record ambient sensors</source>
-        <translation type="unfinished"></translation>
+        <translation>Записывать окружающие сенсоры</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="538"/>
         <source>Coordinate to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Координаты в буфер обмена</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="540"/>
         <source>Copying files to local storage. This can take some time depending on the file size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирование файлов в локальное хранилище. Это может занять некоторое время в зависимости от размера файла.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="541"/>
         <source>Error while copying file &apos;%1&apos;. Make sure that there is sufficient free space available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка в процессе копирования файла &quot;%1&quot;. Убедитесь что есть свободное место.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="543"/>
@@ -2575,72 +2596,72 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="615"/>
         <source>Train</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поезд</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="616"/>
         <source>Trekking</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Катание по треку</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="617"/>
         <source>Walking</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прогулка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="619"/>
         <source>Drinking water</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выпить воды</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="620"/>
         <source>Camp ground</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Лагерь</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="621"/>
         <source>Supermarket</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Супермаркет</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="622"/>
         <source>Hotel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гостиница</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="623"/>
         <source>Restaurant</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Рестаран</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="624"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Информация</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="625"/>
         <source>Parking area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Парковка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="626"/>
         <source>Scenic area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сцена</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="627"/>
         <source>Summit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Встреча на высшем уровне</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="628"/>
         <source>Swimming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Плавание</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="629"/>
         <source>Tunnel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тунель</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="631"/>
@@ -3330,7 +3351,7 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="792"/>
         <source>Design</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Дизайн</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="793"/>
@@ -3460,42 +3481,42 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="824"/>
         <source>Stop tracking when map touched</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить отслеживание при косании экрана</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="825"/>
         <source>Stop compass and tracking when in background</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить компас и отслеживание в фоне</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="827"/>
         <source>Set map center here</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить центр карты здесь</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="828"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="829"/>
         <source>Coordinate projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Проекция координат</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="830"/>
         <source>Enter the coordinate projection name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите имя проекции координат:</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="831"/>
         <source>The given coordinate projection was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введённое имя проекции координат не найдено.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="832"/>
         <source>Manage projections</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление проекциями</translation>
     </message>
 </context>
 </TS>
