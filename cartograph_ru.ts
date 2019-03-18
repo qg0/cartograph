@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru_RU">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>Translator</name>
     <message>
@@ -3086,267 +3086,267 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="731"/>
         <source>Error while registering. Make sure that the email address and serial number are correct (case sensitive).</source>
-        <translation type="unfinished">Ошибка в процессе регистрации. Убедитесь что электронный адрес и серий</translation>
+        <translation>Ошибка в процессе регистрации. Убедитесь что электронный адрес и серийный номер корректны (регистр).</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="732"/>
         <source>Drag to unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетащите чтобы разблокировать</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="733"/>
         <source>Screen lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Заблокировать экран</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="734"/>
         <source>Magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Лупа</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="735"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="736"/>
         <source>User manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструкция пользователя</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="737"/>
         <source>Show routing dialog when recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать диалог пути во время записи</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="738"/>
         <source>Howto videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Видео инструкции</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="739"/>
         <source>Limit map zoom level to min/max</source>
-        <translation type="unfinished"></translation>
+        <translation>Ограничить уровень увеличений в мин/макс</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="741"/>
         <source>Auto controls fade out time</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматический скрывать элементы управления через</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="742"/>
         <source>Auto screen lock time</source>
-        <translation type="unfinished"></translation>
+        <translation>Блокировать экран через</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="744"/>
         <source>All maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Все карты</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="745"/>
         <source>Offline maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Локлаьные карты</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="746"/>
         <source>Online maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Карты в сети</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="747"/>
         <source>Is overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Наложение</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="748"/>
         <source>Cluster overlays</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакет наложений</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="749"/>
         <source>Moveable</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетаскиваемый</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="751"/>
         <source>Restore default settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить настройки по умолчанию</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="752"/>
         <source>Track opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Помутнение дорожки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="753"/>
         <source>Show top toolbar handle</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать верхнюю ручку панели управления</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="754"/>
         <source>Show bottom toolbar handle</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать нижнюю ручку панели управления</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="756"/>
         <source>Light theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлая тема</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="757"/>
         <source>Theme accent color</source>
-        <translation type="unfinished"></translation>
+        <translation>Главный цвет темы</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="758"/>
         <source>Front button color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет кнопки спереди</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="759"/>
         <source>Show magnetic compass</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать магнитный компас</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="761"/>
         <source>Username</source>
-        <translation type="unfinished">Имя пользователя</translation>
+        <translation>Имя пользователя</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="762"/>
         <source>PIN</source>
-        <translation type="unfinished">ПИН</translation>
+        <translation>ПИН</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="764"/>
         <source>The advanced settings should not be changed unless you want to use an existing user token or track token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Продвинутые настройки не должны изменяться если только вы не хотите использовать токен существующего пользователя или токен дорожки.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="765"/>
         <source>User token</source>
-        <translation type="unfinished"></translation>
+        <translation>Токен пользователя</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="766"/>
         <source>Track token</source>
-        <translation type="unfinished"></translation>
+        <translation>Токен дорожки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="767"/>
         <source>Show track on website</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать дорожку на вебсайте</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="768"/>
         <source>Number of retries</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество попыток</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="769"/>
         <source>No valid position is available at the moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет доступной позиици на данный момент.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="770"/>
         <source>Current position to live tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущая позиция отслеживается</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="771"/>
         <source>Live tracking mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Резим отслеживания</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="772"/>
         <source>Sampling method</source>
-        <translation type="unfinished"></translation>
+        <translation>Метод сэмплирования</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="773"/>
         <source>Interval</source>
-        <translation type="unfinished">Интервал</translation>
+        <translation>Интервал</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="774"/>
         <source>Submit pending now</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить ожидание сейчас</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="775"/>
         <source>All pending jobs have been scheduled for upload.</source>
-        <translation type="unfinished"></translation>
+        <translation>Все ожидающие задачи поставленны в очередь для загрузки.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="777"/>
         <source>Unspecified</source>
-        <translation type="unfinished"></translation>
+        <translation>Неопределенный</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="778"/>
         <source>Well</source>
-        <translation type="unfinished"></translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="779"/>
         <source>Alpine brook</source>
-        <translation type="unfinished"></translation>
+        <translation>Альпийский ручей</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="780"/>
         <source>Brook</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручей</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="781"/>
         <source>Water tap</source>
-        <translation type="unfinished"></translation>
+        <translation>Водопроводный кран</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="782"/>
         <source>Spring</source>
-        <translation type="unfinished">Пружина</translation>
+        <translation>Пружина</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="783"/>
         <source>Rating</source>
-        <translation type="unfinished">Оценивание</translation>
+        <translation>Оценивание</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="784"/>
         <source>Description</source>
-        <translation type="unfinished">Описание</translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="786"/>
         <source>Move to top</source>
-        <translation type="unfinished">Переместить вверх</translation>
+        <translation>Переместить вверх</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="787"/>
         <source>Here the app settings can be exported and imported (e.g. for manual backups).</source>
-        <translation type="unfinished"></translation>
+        <translation>Здесь настройки могут быть экспортированны или импортированны (в ручном режиме).</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="788"/>
         <source>Export settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки экспорта</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="789"/>
         <source>Import settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки импорта</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="790"/>
         <source>The settings have been successfully imported. It is recommended to restart (kill) the app now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки были успешно импортированны. Рекомендуется перезапустить (убить) приложение сейчас.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="791"/>
         <source>Please select your preferred settings. All settings can also be changed later in the settings menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, выберите предпочитаемые настройки. Все настройки могут быть изменены позже в меню настроек.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="792"/>
@@ -3361,52 +3361,52 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="795"/>
         <source>Automatic map switching</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическая смена карт</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="796"/>
         <source>Include for automatic map switching</source>
-        <translation type="unfinished"></translation>
+        <translation>Включать для автоматической смены карт</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="798"/>
         <source>High accuracy mode (consumes much battery)</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим высокой точности (жрёт батарейку)</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="799"/>
         <source>Use background downloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать загрузчик в фоне</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="800"/>
         <source>Cartograph map package</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакет карты картографа</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="802"/>
         <source>Distance marker start</source>
-        <translation type="unfinished"></translation>
+        <translation>Начальная точка маршрута дистанции</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="803"/>
         <source>Current position</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущая позиция</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="804"/>
         <source>Selected position</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранная позиция</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="805"/>
         <source>Route start position</source>
-        <translation type="unfinished"></translation>
+        <translation>Начальная позиция пути</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="807"/>
         <source>Show waypoint names</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать имена точек маршрута</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="808"/>
@@ -3426,12 +3426,12 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="811"/>
         <source>Waypoint marker size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер точек маршрута</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="812"/>
         <source>New track (remove last from map)</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая дорожка (удалить последнюю с карты)</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="814"/>
@@ -3441,12 +3441,12 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="815"/>
         <source>Reverse geo-code mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Обратный режи геокодирования</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="816"/>
         <source>Map or provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Карта или поставщик</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="817"/>
