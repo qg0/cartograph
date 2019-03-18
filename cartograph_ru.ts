@@ -2726,367 +2726,367 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="646"/>
         <source>Do you really want to delete the folder? All elements in the folder will be deleted. This cannot be undone!</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите удалить эту директорию? Все элементы в директории будут удалены. Нельзя отменить!</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="648"/>
         <source>Remove folder only</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить только директорию</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="649"/>
         <source>Remove folder and content</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить директорию и содержимое</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="651"/>
         <source>Getting started/Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Справка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="652"/>
         <source>Do you want to open the &apos;Getting Started&apos; website with detailed instructions for loading maps, and styles?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите открыть справку на сайте чтобы получить детальные инструкции для загрузки карт и стилей?</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="654"/>
         <source>Raster maps subtile count</source>
-        <translation type="unfinished"></translation>
+        <translation>Счётчик плиток растровых карт</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="655"/>
         <source>The subtile count specifies the number of lower zoom level tiles which are used for stitching non-existing higher level tiles. A higher number results in slower processing while a lower number leads to more incomplete high zoom level tiles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Счётчик плиток означает количество минимального уровня увеличения использованного для сшивания несуществующих уровней плиток высшего уровня . Большое количество тормозит, маленькое количество ведёт к незаполненным плиткам на высшем уровне.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="657"/>
         <source>System file picker</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать системный файл</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="658"/>
         <source>Internal file picker</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать внутренний файл</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="660"/>
         <source>There are different means to import files into the app:</source>
-        <translation type="unfinished"></translation>
+        <translation>Есть разное значений для импорта файлов в приложение:</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="661"/>
         <source>Wifi upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка по Wifi</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="662"/>
         <source>The Wifi uploader can be used for uploading files over Wifi in the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wifi загрузчик может быть использован для загрузки файлов через Wifi в приложении.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="663"/>
         <source>iTunes File Sharing</source>
-        <translation type="unfinished"></translation>
+        <translation>iTunes файловое распределение</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="664"/>
         <source>iTunes file sharing can be used for copying files to the app using iTunes.</source>
-        <translation type="unfinished"></translation>
+        <translation>iTunes файловое распределение может быть использовано для копирования.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="665"/>
         <source>File sharing help</source>
-        <translation type="unfinished"></translation>
+        <translation>Справка распределения файлов</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="666"/>
         <source>iOS Open in</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS открыть в</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="667"/>
         <source>The iOS open in feature allows you to import files from other apps.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;iOS открыть в&quot; - фишка позволяет вам импортировать файлы из другого приложения.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="668"/>
         <source>iOS Open in help</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;iOS открыть в&quot; справка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="670"/>
         <source>Load selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить выбранные</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="671"/>
         <source>Create subfolder for segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать поддиректории для сегментов</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="672"/>
         <source>Use plain Garmin symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать простые символы Garmin</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="674"/>
         <source>Do you really want to stop recording?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите остановить запись? </translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="675"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтер</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="676"/>
         <source>Remove selected from map</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранное с карты</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="677"/>
         <source>Edit selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать выбранное</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="678"/>
         <source>Export selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортировать выбранное</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="679"/>
         <source>Merge selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Объеденить выбранное</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="680"/>
         <source>Track export format</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат экспорта дорожки</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="682"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Язык</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="683"/>
         <source>It is recommended to restart the app after changing the language.</source>
-        <translation type="unfinished"></translation>
+        <translation>Рекомендуется перезапустить приложение после изменения языка.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="685"/>
         <source>Show route distance markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать точки маршрута</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="686"/>
         <source>Route distance marker interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Интервал точек маршрута</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="688"/>
         <source>Routing</source>
-        <translation type="unfinished"></translation>
+        <translation>Позиционирование</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="689"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Объём</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="690"/>
         <source>Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Темп</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="691"/>
         <source>Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Высота</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="692"/>
         <source>Voice</source>
-        <translation type="unfinished"></translation>
+        <translation>Голос</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="693"/>
         <source>Voice name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя голоса</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="694"/>
         <source>Note: voice commands are only spoken when the screen is unlocked and turned on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Замечание: голосовые команды произносятся тогда когда экран разблокирован и включен.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="695"/>
         <source>Close to waypoint &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приблизится к путевой точке &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="696"/>
         <source>Route range left!</source>
-        <translation type="unfinished"></translation>
+        <translation>Дальность маршрута слева!</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="697"/>
         <source>Turn left in &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поверните налево через &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="698"/>
         <source>Turn right in &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поверните вправо через &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="699"/>
         <source>Max. alert count</source>
-        <translation type="unfinished"></translation>
+        <translation>Макс. количество сигналов</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="700"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешить</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="701"/>
         <source>Route range</source>
-        <translation type="unfinished"></translation>
+        <translation>Диапазон маршрута</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="702"/>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>От</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="703"/>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>До</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="704"/>
         <source>Alert interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Инттервал сигналов</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="705"/>
         <source>Turn alert distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить расстояние сигналов</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="706"/>
         <source>Use sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать звук</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="707"/>
         <source>Select sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать звук</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="708"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="709"/>
         <source>Turn left</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернуть влево</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="710"/>
         <source>Turn right</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернуть вправо</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="711"/>
         <source>Range left</source>
-        <translation type="unfinished"></translation>
+        <translation>Дальность слева</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="712"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Аудио</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="713"/>
         <source>Turn detection threshold (degrees)</source>
-        <translation type="unfinished"></translation>
+        <translation>Порог обнаружения поворота (градусы)</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="714"/>
         <source>Use instructions stored in route</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструкции сохранены в пути</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="716"/>
         <source>Authenticating</source>
-        <translation type="unfinished"></translation>
+        <translation>Аутентификация</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="717"/>
         <source>Uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="718"/>
         <source>Uploading data (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка данных (%1)</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="719"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="721"/>
         <source>Strava</source>
-        <translation type="unfinished"></translation>
+        <translation>Страва</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="722"/>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфиденциальный</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="723"/>
         <source>Commute</source>
-        <translation type="unfinished"></translation>
+        <translation>Смягчение</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="724"/>
         <source>Activity type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип активности</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="726"/>
         <source>High quality raster rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Высококачественный растровый рендеринг</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="727"/>
         <source>Import file</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортировать файл</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="728"/>
         <source>Multi-window mode (restart required)</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим нескольких окон (требуется перезагрузка)</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="729"/>
         <source>Serial number</source>
-        <translation type="unfinished"></translation>
+        <translation>Серийный номер</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="730"/>
         <source>Get serial number</source>
-        <translation type="unfinished"></translation>
+        <translation>Получить серийный номер</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="731"/>
         <source>Error while registering. Make sure that the email address and serial number are correct (case sensitive).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка в процессе регистрации. Убедитесь что электронный адрес и серий</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="732"/>
@@ -3211,12 +3211,12 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="761"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Имя пользователя</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="762"/>
         <source>PIN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ПИН</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="764"/>
@@ -3266,7 +3266,7 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="773"/>
         <source>Interval</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Интервал</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="774"/>
@@ -3306,22 +3306,22 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="782"/>
         <source>Spring</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пружина</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="783"/>
         <source>Rating</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Оценивание</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="784"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Описание</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="786"/>
         <source>Move to top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Переместить вверх</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="787"/>
@@ -3411,17 +3411,17 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="808"/>
         <source>3D Map Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Снимок 3D карты</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="809"/>
         <source>Moving speed factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Множитель скорости перемещения</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="810"/>
         <source>Height display factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Множитель высоты дисплея</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="811"/>
@@ -3436,7 +3436,7 @@ Sending variables:
     <message>
         <location filename="../core/translator.cpp" line="814"/>
         <source>What&apos;s here?</source>
-        <translation type="unfinished"></translation>
+        <translation>Что здесь?</translation>
     </message>
     <message>
         <location filename="../core/translator.cpp" line="815"/>
